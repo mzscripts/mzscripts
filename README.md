@@ -40,6 +40,6 @@
 - 📊 **[InstaMetrics Pipeline](https://colab.research.google.com/drive/1yi-Odc9BEg_RPRRZvIYfpJB4YPPM2Umm?usp=sharing)** — Instagram data cleaning + performance analytics
 
 - 🐣 Early / Academic
-- ✅ **[DoDeck.io]([https://github.com/mzscripts/Potato-disease-classification](https://youtu.be/mA4PVwntpy0?si=y4euY3lQ44I3PXb-))** — Fullstack todo (Angular + Spring Boot + MySQL/Mongo)
+- ✅ **[DoDeck.io](https://youtu.be/mA4PVwntpy0?si=y4euY3lQ44I3PXb-)** — Fullstack todo (Angular + Spring Boot + MySQL/Mongo)
 - 🎶 **Musical Juke Box** — Java + JDBC + MySQL music player
 - 🍕 **Pizza Delivery App** — Customizable fullstack order system (Angular + Spring Boot)
