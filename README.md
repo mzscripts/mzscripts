@@ -1,105 +1,45 @@
-Hi, I’m Zaid.
-I turn dopamine hits into live tech experiments. Random, vibe-coded apps — usually closed-source, deployed, documented, done.
-I care way more about wild ideas, killer features and actual usage than about perfect code.
+  Hi✋, I’m Zaid. I abuse dopamine to ship crazy tech ideas that actually run. Vibe-coded apps (mostly closed-source), deployments & docs exists. I care more about ideas & real use cases than perfect code.
 
-## 🚀 Current & Active Projects
+- 🟢 Active Projects
+- 🎬 **[MZTV](https://mztv.vercel.app/)** — Modern streaming for movies, TV & anime (my largest user base)
+- 🧰 **[MZ Tools](https://mztools.vercel.app/)** — Lightweight hub wrapping background APIs into simple tools
+- 📿 **[The Hadith Daily](https://thehadithdaily.pages.dev/)** — Minimal daily Hadith reader
+- 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — Zero-setup AI coding assistant inside VS Code (no keys, no credits)
+- 🧑‍🎤 **[LookAlike](https://lookalike.pages.dev/)** — Find your celebrity lookalike (26k+ celebs / 346k images)
+- 🎞️ **[Stoic Reel Generator](https://reeler.pages.dev/)** — Quote → cinematic vertical reel (AI visuals + auto render)
+- 🧭 **[BhulaBhatka](https://bhulabhatka.onrender.com/)** — Reverse image search via Google (upload → SerpAPI)
+- 👁️ **[Face Detection Clip-Pic](https://github.com/mzscripts/Face-Detection-Clip-pic)** — CV face detection experiments
+- ⌨️ **[Terminal Loader Gateway](https://mzscripts.github.io/Terminal/?app=2)** — Playful terminal-style cold-start wake-up screen
+- 🧠 **LexicaScrapper** — ~3k AI images scraped from lexica.art + Instagrapi auto-post (→ Walty integration)
+- 🖼️ **Walty** — Premium Android wallpaper app (Jetpack Compose, offline-first, ~6MB APK)
+- 🤖 **Walty Generator** — Prompt → AI enhance → production wallpaper pipeline
 
-- 🎬 **MZTV** — Modern movie streaming platform for movies, TV shows & anime; fast, smooth, and your **largest user base**  
-  https://mztv.vercel.app/
+- 🟡 Client / Friend Projects
+- 🛒 **[PlayBazar](https://playbazar.vercel.app/)** — Production-grade client web platform
+- 💈 **[Frankmen Salon](https://frankmensaloon.lovestoblog.com/)** — Local salon business site
+- 💬 **[Nilubot](https://nilubot.pages.dev/)** — RAG-based natural-language knowledge base chat
 
-- 🧰 **MZ Tools** — Lightweight utility hub orchestrating multiple background APIs into simple, useful tools  
-  https://mztools.vercel.app/
+- 🔴 Deprecated / Unmaintained
+- 📰 **[BlogAPI](https://blogapi.pages.dev)** — Flask scraper → auto TechCrunch posts
+- 🗞️ **[NewsSync](https://mznews.onrender.com/)** — 100+ TOI headlines scraped daily
+- 🎵 **[Spotify Playlist Automator](https://colab.research.google.com/drive/1y4JSw8x9mJeDW_1hBnk1vUka9qJ7K_tM?usp=sharing)** — Selenium playlist organizer/downloader
+- 📄 **[ATS Resume Analyzer](https://colab.research.google.com/drive/1_z_2ptaWrVRuwC3yd1_uVJWDXjcpHVzV)** — AI resume vs JD matcher + feedback
+- 🥗 **[Calorie Adviser](https://colab.research.google.com/drive/1_z_2ptaWrVRuwC3yd1_uVJWDXjcpHVzV)** — Gemini food image → calories + suggestions
 
-- 📿 **The Hadith Daily** — Minimal, distraction-free daily Hadith delivery platform  
-  https://thehadithdaily.pages.dev/
+- 🟠 Midway / Procrastinated
+- 🧬 **ARZ** — WhatsApp chat → talking style clone attempt
+- 🔐 **MzVault** — Client-side AES-GCM zero-knowledge password vault (Next.js + Supabase)
+- 👁️‍🗨️ **EYE** — Photos/videos → conversational AI memory (CV + NLP)
 
-- 🖼️ **Walty** — Premium Android wallpaper app built with Jetpack Compose, offline-first caching, WorkManager automation, and ultra-optimized APK (~6MB)
+- 🎰 Data & ML Projects
+- 🌿 **[Plant Disease Classification](https://github.com/mzscripts/Potato-disease-classification)** — ~99% TF CNN on PlantVillage
+- 🎧 **[TrendSnap](https://colab.research.google.com/drive/16_CCjVLS3dpbUQLrIQmpEVSx7to2Lysa?usp=sharing)** — Podcast viral clip extractor (helped land Cynepto internship)
+- 📊 **[Diljit Tour Analysis](https://colab.research.google.com/drive/1_z_2ptaWrVRuwC3yd1_uVJWDXjcpHVzV)** — RFM + K-Means + RF for ticket pricing sim
+- 🗳️ **[Lok Sabha 2029 Prediction](https://github.com/mzscripts/Lok-Sabha-Election-Prediction)** — RF + XGBoost vote/share forecast
+- 🌫️ **[Air Quality Assessment](https://colab.research.google.com/drive/1gQTMd8_zVb9ARVZGyzbnCwz5O8m5UZsL?usp=sharing)** — ~90% RF after feature engineering
+- 📊 **[InstaMetrics Pipeline](https://colab.research.google.com/drive/1yi-Odc9BEg_RPRRZvIYfpJB4YPPM2Umm?usp=sharing)** — Instagram data cleaning + performance analytics
 
-- 🤖 **Walty Generator** — Automated AI wallpaper generation pipeline from prompt → enhancement → production-ready wallpaper
-
-- 🧠 **Neogent** — Zero-setup AI chat assistant inside VS Code for coding, debugging & system design (no API keys, no credits)  
-  https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent&ssr=false#overview
-
-- 🧑‍🎤 **LookAlike** — Celebrity lookalike finder powered by face similarity across **26k+ celebrities / 346k images**  
-  https://lookalike.pages.dev/
-
-- 🎞️ **Stoic Reel Generator** — AI-powered short-form video generator that turns stoic quotes into cinematic vertical reels using prompt-driven visuals and automated video rendering  
-  https://reeler.pages.dev/
-
-- 🧭 **BhulaBhatka** — Reverse image search app: upload → host → Google visual matches via SerpAPI  
-  https://bhulabhatka.onrender.com/
-
-- 👁️ **Face Detection Clip-Pic** — Computer vision experiments for face detection in images and videos  
-  https://github.com/mzscripts/Face-Detection-Clip-pic
-
-- ⌨️ **Terminal Loader Gateway** — Terminal-style loading screen to wake cold-start apps with playful UX  
-  https://mzscripts.github.io/Terminal/?app=2
-
-- 🧠 **LexicaScrapper** — Scraping script from lexica.art ~3k high-quality AI images and auto-posting via Instagrapi (will integrate these imgs with my Walty app)
-
-## 🤝 Client / Friends Projects
-
-- 🛒 **PlayBazar** — Production-grade web platform built for a real client  
-  https://playbazar.vercel.app/
-
-- 💈 **Frankmen Salon Website** — Deployed business website for a local salon  
-  https://frankmensaloon.lovestoblog.com/
-
-- 💬 **Nilubot** — RAG-based AI assistant enabling natural-language interaction with custom knowledge bases  
-  https://nilubot.pages.dev/
-
-## 🗃️ Deprecated / Unmaintained Projects
-
-- 📰 **BlogAPI** — Scheduled Flask scraper auto-publishing tech news from TechCrunch  
-  https://blogapi.pages.dev
-
-- 🗞️ **NewsSync** — Fully automated news aggregation platform scraping 100+ Times of India headlines daily  
-  https://mznews.onrender.com/
-
-- 🎵 **Spotify Playlist Automator** — Selenium automation simulating human actions to organize & download Spotify playlists  
-  https://colab.research.google.com/drive/1y4JSw8x9mJeDW_1hBnk1vUka9qJ7K_tM?usp=sharing
-
-- 📄 **ATS Resume Analyzer** — Smart ATS tool analyzing resumes vs job descriptions with AI feedback & chat  
-  mzatscheck.streamlit.app
-
-- 🥗 **Calorie Adviser** — Gemini-powered food image analyzer with calorie estimates, exercise suggestions, PDF reports & AI chat  
-  calorieadviser.streamlit.app
-
-## 🧪 Midway / Procrastinated Projects
-
-- 🧬 **ARZ** — Tried to clone my talking style using whatsapp chat.
-
-- 🔐 **MzVault** — Zero-knowledge password vault using client-side AES-GCM encryption (Next.js + Supabase Auth)
-
-- 👁️‍🗨️ **EYE** — Privacy-first AI memory platform turning photos & videos into conversational memories (CV + NLP)
-
-## 🎙️ Data & Machine Learning Projects
-
-- 🌿 **Plant Disease Classification (CNN)** — TensorFlow CNN achieving ~98.99% accuracy on PlantVillage dataset  
-  https://github.com/mzscripts/Potato-disease-classification
-
-- 🎧 **TrendSnap** — Podcast viral clip extractor using audio energy, sentiment analysis, scene detection & virality scoring  
-  (*Project that helped land your Cynepto internship*)  
-  https://colab.research.google.com/drive/16_CCjVLS3dpbUQLrIQmpEVSx7to2Lysa?usp=sharing
-
-- 📊 **Diljit Dilluminati Tour Analysis** — Ticket sales simulation using RFM, K-Means & Random Forest for pricing optimization  
-  https://colab.research.google.com/drive/1_z_2ptaWrVRuwC3yd1_uVJWDXjcpHVzV
-
-- 🗳️ **Lok Sabha Election Prediction 2029** — ML pipeline predicting vote share & seats using Random Forest & XGBoost  
-  https://github.com/mzscripts/Lok-Sabha-Election-Prediction
-
-- 🌫️ **Air Quality Assessment** — Random Forest model predicting air quality with ~90% accuracy after feature engineering  
-  https://colab.research.google.com/drive/1gQTMd8_zVb9ARVZGyzbnCwz5O8m5UZsL?usp=sharing
-
-- 📊 **InstaMetrics Pipeline** — Ingests and cleans Instagram post & profile data from CSVs and Apify APIs, unifying reach, impressions, likes, comments, and views to analyze content performance and optimize media strategy  
-  https://colab.research.google.com/drive/1yi-Odc9BEg_RPRRZvIYfpJB4YPPM2Umm?usp=sharing
-
-## 🧠 Early Career / Academic Projects
-
-- ✅ **DoDeck.io** — Fullstack todo app with auth, priorities, archives (Angular + Spring Boot + MySQL + MongoDB)
-
-- 📋 **Kanban Board** — Angular-based Kanban workflow tool with drag-and-drop and Spring Boot microservices
-
-- 🎶 **Musical Juke Box** — Java-based music streaming & playlist system using JDBC + MySQL
-
-- 🍕 **Pizza Delivery App** — Fullstack pizza ordering system with customization using Angular & Spring Boot
+- 🐣 Early / Academic
+- ✅ **[DoDeck.io]([https://github.com/mzscripts/Potato-disease-classification](https://youtu.be/mA4PVwntpy0?si=y4euY3lQ44I3PXb-))** — Fullstack todo (Angular + Spring Boot + MySQL/Mongo)
+- 🎶 **Musical Juke Box** — Java + JDBC + MySQL music player
+- 🍕 **Pizza Delivery App** — Customizable fullstack order system (Angular + Spring Boot)
