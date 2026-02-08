@@ -19,10 +19,9 @@
 * 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — AI chat VS Code Extension
 * 🧑‍🎤 **[Look-Alike](https://lookalike.pages.dev/)** — Celebrity lookalike finder
 * 🎞️ **[Stoic Reel Generator](https://reeler.pages.dev/)** — Quote → cinematic reels
-* 🧰 **[Mz Tools](https://mztools.vercel.app/)** — micro-tools hub
+* 🧰 **[Mz Tools](https://trustytools.vercel.app/)** — micro-tools hub
 * 🧭 **[BhulaBhatka](https://mzscripts.github.io/Terminal/?app=bhulabhatka)** — Reverse image search
 * 👁️ **[Face Detection Clip-Pic](https://github.com/mzscripts/Face-Detection-Clip-pic)** — Computer Vision face detection
-* ⌨️ **[Terminal Loader Gateway](https://mzscripts.github.io/Terminal/?app=2)** — Terminal-style loader
 * 🖼️ **Walty** — AI Android wallpaper app + Prompt → wallpaper.db
 
 #### Automation Experiments
@@ -35,7 +34,7 @@
 
   <li>
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16"/>
-    <a href="https://t.me/whattodayme"><strong>What Today?</strong></a> — Daily event generator in 73 unique AI styles
+    <a href="https://t.me/s/whattodayme/"><strong>What Today?</strong></a> — Daily event generator in 73 unique AI styles
   </li>
 
   <li>
@@ -55,7 +54,7 @@
 
   <li>
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16"/>
-    <a href="https://t.me/mztvapp"><strong>Movie Facts</strong></a> — Movie trivia
+    <a href="https://t.me/s/mztvapp/"><strong>Movie Facts</strong></a> — Movie trivia
   </li>
 
   <li>
