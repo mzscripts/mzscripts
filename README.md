@@ -15,11 +15,11 @@
 
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
 * 💬 **[Contextas](https://contextas.pages.dev/)** — RAG knowledge bot
-* 📿 **[The Hadith Daily](https://mzscripts.github.io/Terminal/?app=hadith)** — Daily Hadith, minimal UI
-* 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — Zero-setup AI VS Code Extension
+* 📿 **[The Hadith Daily](https://mzscripts.github.io/Terminal/?app=hadith)** — Daily Hadith newsletter
+* 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — AI chat VS Code Extension
 * 🧑‍🎤 **[Look-Alike](https://lookalike.pages.dev/)** — Celebrity lookalike finder
 * 🎞️ **[Stoic Reel Generator](https://reeler.pages.dev/)** — Quote → cinematic reels
-* 🧰 **[Mz Tools](https://mztools.vercel.app/)** — API-backed micro-tools hub
+* 🧰 **[Mz Tools](https://mztools.vercel.app/)** — micro-tools hub
 * 🧭 **[BhulaBhatka](https://mzscripts.github.io/Terminal/?app=bhulabhatka)** — Reverse image search
 * 👁️ **[Face Detection Clip-Pic](https://github.com/mzscripts/Face-Detection-Clip-pic)** — Computer Vision face detection
 * ⌨️ **[Terminal Loader Gateway](https://mzscripts.github.io/Terminal/?app=2)** — Terminal-style loader
@@ -84,7 +84,7 @@
 
 #### 🔴 Deprecated / Unmaintained
 
-* 🎵 **[Spotify Playlist Downloader](https://colab.research.google.com/drive/1y4JSw8x9mJeDW_1hBnk1vUka9qJ7K_tM?usp=sharing)** — Playlist automation
+* 🎵 **[Spotify Playlist Downloader](https://colab.research.google.com/drive/1y4JSw8x9mJeDW_1hBnk1vUka9qJ7K_tM?usp=sharing)**
 * 📄 **[ATS Resume Analyzer](https://mzatscheck.streamlit.app/)** — Resume vs JD
 * 🥗 **[Calorie Adviser](https://calorieadviser.streamlit.app/)** — Food → calorie estimation
 
