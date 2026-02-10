@@ -15,14 +15,14 @@
 
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
 * 💬 **[Contextas](https://contextas.pages.dev/)** — RAG knowledge bot
-* 📿 **[The Hadith Daily](https://mzscripts.github.io/Terminal/?app=hadith)** — Daily Hadith newsletter
+* 🖼️ **[Walty](https://loadly.io/walty-v1)** — AI Android wallpaper app + Prompt → wallpaper.db
 * 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — AI chat VS Code Extension
 * 🧑‍🎤 **[Look-Alike](https://lookalike.pages.dev/)** — Celebrity lookalike finder
 * 🎞️ **[Stoic Reel Generator](https://reeler.pages.dev/)** — Quote → cinematic reels
 * 🧰 **[Mz Tools](https://trustytools.vercel.app/)** — micro-tools hub
 * 🧭 **[BhulaBhatka](https://mzscripts.github.io/Terminal/?app=bhulabhatka)** — Reverse image search
 * 👁️ **[Face Detection Clip-Pic](https://github.com/mzscripts/Face-Detection-Clip-pic)** — Computer Vision face detection
-* 🖼️ **Walty** — AI Android wallpaper app + Prompt → wallpaper.db
+* 📿 **[The Hadith Daily](https://mzscripts.github.io/Terminal/?app=hadith)** — Daily Hadith newsletter
 
 #### Automation Experiments
 ##### Social Media & Content Generation
