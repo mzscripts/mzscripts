@@ -66,7 +66,7 @@
 ##### Scraping
 * 🎨 **[TSMOCA](https://www.instagram.com/tsmoca.ig/)** — 9,000 imgs collected from [pdimagearchive.org](https://pdimagearchive.org/galleries/all/random/desc)
 * 🧠 **[Lexica](https://iimgs.pages.dev)** — 2,000+ imgs saved [lexica.art](https://lexica.art/)
-* 📰 **[Tech Pulse](https://blogapi.pages.dev)** — [techcrunch.com](https://techcrunch.com/) article scraper
+* 📰 **[Tech Pulse](https://mzscripts.github.io/blogapi.html/)** — [techcrunch.com](https://techcrunch.com/) article scraper
 * 🗞️ **[NewsSync](https://mzscripts.github.io/Terminal/?app=mznews)** — [timesofindia.com](https://timesofindia.indiatimes.com/) (14,411 articles indexed)
 
 #### Client / Friend Projects
