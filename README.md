@@ -83,7 +83,7 @@
 
 #### 🔴 Deprecated / Unmaintained
 
-* 🎵 **[Spotify Playlist Downloader](https://colab.research.google.com/drive/1y4JSw8x9mJeDW_1hBnk1vUka9qJ7K_tM?usp=sharing)**
+* 🎵 **[Spotify Playlist Downloader](https://colab.research.google.com/drive/13qWMGNhj7uru-bWARFaO8DtpmW429KYS?usp=sharing)**
 * 📄 **[ATS Resume Analyzer](https://mzatscheck.streamlit.app/)** — Resume vs JD
 * 🥗 **[Calorie Adviser](https://calorieadviser.streamlit.app/)** — Food → calorie estimation
 
