@@ -15,7 +15,7 @@
 
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
 * 💬 **[Contextas](https://contextas.pages.dev/)** — RAG knowledge bot
-* 🖼️ **[Walty](https://loadly.io/walty-v1)** — AI Android wallpaper app + Prompt → wallpaper.db
+* 🖼️ **[Walty](https://loadly.io/walty-v1-stable)** — AI Android wallpaper app + Scheduler
 * 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — AI chat VS Code Extension
 * 🧑‍🎤 **[Look-Alike](https://lookalike.pages.dev/)** — Celebrity lookalike finder
 * 🎞️ **[Stoic Reel Generator](https://reeler.pages.dev/)** — Quote → cinematic reels
