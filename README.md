@@ -24,6 +24,15 @@
 * 👁️ **[Face Detection Clip-Pic](https://github.com/mzscripts/Face-Detection-Clip-pic)** — Computer Vision face detection
 * 📿 **[The Hadith Daily](https://mzscripts.github.io/Terminal/?app=hadith)** — Daily Hadith newsletter
 
+#### 🎰 Data & ML Projects
+
+* 🌿 **[Plant Disease Classification](https://github.com/mzscripts/Potato-disease-classification)** — CNN (~99%)
+* 🎧 **[TrendSnap](https://colab.research.google.com/drive/16_CCjVLS3dpbUQLrIQmpEVSx7to2Lysa?usp=sharing)** — Viral clip extractor
+* 📊 **[Diljit Tour Analysis](https://colab.research.google.com/drive/1_z_2ptaWrVRuwC3yd1_uVJWDXjcpHVzV)** — Pricing simulation
+* 🗳️ **[Lok Sabha 2029 Prediction](https://github.com/mzscripts/Lok-Sabha-Election-Prediction)** — Election forecast
+* 🌫️ **[Air Quality Assessment](https://colab.research.google.com/drive/1gQTMd8_zVb9ARVZGyzbnCwz5O8m5UZsL?usp=sharing)** — RF model
+* 📊 **[InstaMetrics Pipeline](https://colab.research.google.com/drive/1yi-Odc9BEg_RPRRZvIYfpJB4YPPM2Umm?usp=sharing)** — Instagram analytics
+
 #### Automation Experiments
 ##### Social Media & Content Generation
 <ul>
@@ -86,16 +95,6 @@
 * 🎵 **[Spotify Playlist Downloader](https://colab.research.google.com/drive/13qWMGNhj7uru-bWARFaO8DtpmW429KYS?usp=sharing)**
 * 📄 **[ATS Resume Analyzer](https://mzatscheck.streamlit.app/)** — Resume vs JD
 * 🥗 **[Calorie Adviser](https://calorieadviser.streamlit.app/)** — Food → calorie estimation
-
-
-#### 🎰 Data & ML Projects
-
-* 🌿 **[Plant Disease Classification](https://github.com/mzscripts/Potato-disease-classification)** — CNN (~99%)
-* 🎧 **[TrendSnap](https://colab.research.google.com/drive/16_CCjVLS3dpbUQLrIQmpEVSx7to2Lysa?usp=sharing)** — Viral clip extractor
-* 📊 **[Diljit Tour Analysis](https://colab.research.google.com/drive/1_z_2ptaWrVRuwC3yd1_uVJWDXjcpHVzV)** — Pricing simulation
-* 🗳️ **[Lok Sabha 2029 Prediction](https://github.com/mzscripts/Lok-Sabha-Election-Prediction)** — Election forecast
-* 🌫️ **[Air Quality Assessment](https://colab.research.google.com/drive/1gQTMd8_zVb9ARVZGyzbnCwz5O8m5UZsL?usp=sharing)** — RF model
-* 📊 **[InstaMetrics Pipeline](https://colab.research.google.com/drive/1yi-Odc9BEg_RPRRZvIYfpJB4YPPM2Umm?usp=sharing)** — Instagram analytics
 
 #### 🐣 Early / Academic
 
