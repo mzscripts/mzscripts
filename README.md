@@ -10,7 +10,7 @@
 
 > I abuse dopamine to ship crazy tech ideas that actually run. Vibe-coded apps (mostly closed-source), deployments & docs exist. I care more about ideas & real use cases than perfect code.
 ---
-###### Note: Most projects run on Render (free tier), so the first load might be slow due to cold starts. Thanks for your patience 🙂
+###### Note: Some projects run on Render (free tier), so the first load might be slow due to cold starts. Thanks for your patience 🙂
 #### 🟢 Active Projects
 
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
@@ -108,3 +108,4 @@
 ### Philosophy
 
 > "Ship beats perfect!" - I build tools to solve my own problems, then share them with the world.
+###### Last updated in March 2026
