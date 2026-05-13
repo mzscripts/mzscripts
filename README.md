@@ -13,6 +13,7 @@
 ###### Note: Some projects run on Render (free tier), so the first load might be slow due to cold starts. Thanks for your patience 🙂
 #### 🟢 Active Projects
 
+* 📸 **[Circuit Burn Filters](https://cbcam.pages.dev/)** — Img Distortion/glitch filters [^](https://cbcam.onrender.com/)
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
 * 💬 **[Contextas](https://contextas.pages.dev/)** — RAG knowledge bot
 * 🖼️ **[Walty](https://loadly.io/walty-v1-stable)** — AI Android wallpaper app + Scheduler
