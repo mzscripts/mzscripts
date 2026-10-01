@@ -14,9 +14,9 @@
 #### 🟢 Active Projects
 
 * 📸 **[Circuit Burn Filters](https://cbcam.pages.dev/)** — Img Distortion/glitch filters [^](https://cbcam.onrender.com/)
+* 🌇 **[Backter](https://backter.pages.dev/)** — Multi-source Android wallpaper app with auto-refresh.
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
 * 💬 **[Contextas](https://contextas.pages.dev/)** — RAG knowledge bot
-* 🖼️ **[Walty](https://loadly.io/walty-v1-stable)** — AI Android wallpaper app + Scheduler
 * 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — AI chat VS Code Extension
 * 🧑‍🎤 **[Look-Alike](https://lookalike.pages.dev/)** — Celebrity lookalike finder
 * 🎞️ **[Stoic Reel Generator](https://reeler.pages.dev/)** — Quote → cinematic reels
@@ -93,6 +93,7 @@
 
 #### 🔴 Deprecated / Unmaintained
 
+* 🖼️ **[Walty](https://loadly.io/walty-v1-stable)** — AI (imgGen) wallpaper app V1 & [V2](https://loadly.io/picsy_v1) 
 * 🎵 **[Spotify Playlist Downloader](https://colab.research.google.com/drive/13qWMGNhj7uru-bWARFaO8DtpmW429KYS?usp=sharing)**
 * 📄 **[ATS Resume Analyzer](https://mzatscheck.streamlit.app/)** — Resume vs JD
 * 🥗 **[Calorie Adviser](https://calorieadviser.streamlit.app/)** — Food → calorie estimation
@@ -109,4 +110,4 @@
 ### Philosophy
 
 > "Ship beats perfect!" - I build tools to solve my own problems, then share them with the world.
-###### Last updated in March 2026
+###### Last updated in OCT 2026 data incomplete.
