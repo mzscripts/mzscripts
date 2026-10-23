@@ -16,7 +16,7 @@
 * 🧑‍🎤 **[Look-Alike](https://lookalike.pages.dev/)** — Celebrity lookalike finder
 * 📸 **[Circuit Burn Filters](https://cbcam.pages.dev/)** — Img Distortion/glitch filters [^](https://cbcam.onrender.com/)
 * 🌇 **[Backter](https://backter.pages.dev/)** — Multi-source Android wallpaper app with auto-refresh.
-* 📂 **[Sharebox](https://sharebox.mdzaiduiux.workers.dev/)** — Pvt. file sharing for restricted corporate setups.
+* <img src="https://i.ibb.co/fV8jrxjW/none.png" width="20" height="20" alt="Sharebox" /> **[Sharebox](https://sharebox.mdzaiduiux.workers.dev/)** — file sharing for restricted corporate setups.
 * 🎬 **[MZ TV](https://mztv.vercel.app/)** — Movies, TV, anime streaming (~70+ monthly active users)
 * 💬 **[Contextas](https://contextas.pages.dev/)** — RAG knowledge bot
 * 🧠 **[Neogent](https://marketplace.visualstudio.com/items?itemName=mzscripts.neogent)** — AI chat VS Code Extension
